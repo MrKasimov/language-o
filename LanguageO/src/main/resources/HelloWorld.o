@@ -1,0 +1,5 @@
+class HelloWorld is
+    this() is
+        var counter : Integer(3)
+    end
+end
